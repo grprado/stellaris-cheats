@@ -1,0 +1,14 @@
+namespace = scma
+
+country_event = {
+	id = scma.1
+	title = "scma.1.name"
+	desc = "scma.1.desc"
+	is_triggered_only = yes
+	option = {
+		name = INTRIGUING
+		owner = {
+			add_resource = { minor_artifacts = 5 }
+		}
+	}
+}
