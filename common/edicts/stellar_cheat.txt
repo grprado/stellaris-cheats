@@ -97,9 +97,11 @@ stellar_cheats_buildings = {
 		planet_clear_blocker_time_mult = -0.95
 		pop_robot_build_speed_mult = 20
 		starbase_upgrade_speed_mult = 20.00
-		starbase_module_speed_mult = 20.00
+		starbase_module_build_speed_mult = 20.00
+		starbase_building_build_speed_mult = 20.00
 		starbase_upgrade_time_mult = -0.75
-		starbase_module_time_mult = -0.75
+		starbase_module_build_time_mult = -0.75
+		starbase_building_build_time_mult = -0.75
 		starbase_defense_platform_capacity_add = 300.0
 	}
 	allow = {
